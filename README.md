@@ -8,9 +8,6 @@ This repository contains completed fundamental CSS assignments from [The Odin Pr
 
 - [Introduction](#introduction)
 - [Assignments](#assignments)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
