@@ -20,6 +20,7 @@ The assignments included in this repository are part of The Odin Project's curri
 - **Descendant Combinator**: Selecting elements that are nested within other elements.
 - **Cascade Fix**: Understanding and managing CSS specificity and the cascade.
 - **Margin and Padding**: Practicing the use of margin and padding properties to adjust spacing around and inside elements.
+- **Flexbox Layout**: Learning to use Flexbox for responsive layouts.
 
 These exercises are intended to provide hands-on experience with these core CSS concepts.
 
@@ -57,3 +58,30 @@ These exercises are intended to provide hands-on experience with these core CSS 
    - **Description:** Continue exploring margin and padding with more complex layouts. This assignment builds on the previous one by introducing additional challenges and scenarios.
    - **Files:** [index.html](margin-and-padding/02-margin-and-padding-2/index.html), [style.css](02-margin-and-padding-2/style.css)
 
+9. **Assignment 9: Flex Center**
+   - **Description:** Learn to center elements using Flexbox, understanding alignment properties.
+   - **Files:** [index.html](flex/01-flex-center/index.html), [style.css](flex/01-flex-center/styles.css)
+
+10. **Assignment 10: Flex Header**
+    - **Description:** Create a responsive header layout using Flexbox, focusing on distribution and alignment.
+    - **Files:** [index.html](flex/02-flex-header/index.html), [style.css](flex/02-flex-header/styles.css)
+
+11. **Assignment 11: Flex Header 2**
+    - **Description:** Enhance the header layout with additional Flexbox properties for improved responsiveness.
+    - **Files:** [index.html](flex/03-flex-header-2/index.html), [style.css](flex/03-flex-header-2/styles.css)
+
+12. **Assignment 12: Flex Information**
+    - **Description:** Structure an information section using Flexbox to manage layout and spacing.
+    - **Files:** [index.html](flex/04-flex-information/index.html), [style.css](flex/04-flex-information/styles.css)
+
+13. **Assignment 13: Flex Modal**
+    - **Description:** Create a modal window using Flexbox for layout, ensuring responsiveness and accessibility.
+    - **Files:** [index.html](flex/05-flex-modal/index.html), [style.css](flex/05-flex-modal/styles.css)
+
+14. **Assignment 14: Flex Layout**
+    - **Description:** Build a complete layout using Flexbox to arrange various components of a webpage.
+    - **Files:** [index.html](flex/06-flex-layout/index.html), [style.css](flex/06-flex-layout/styles.css)
+
+15. **Assignment 15: Flex Layout 2**
+    - **Description:** Continue refining the Flexbox layout with additional components and responsiveness.
+    - **Files:** [index.html](flex/07-flex-layout-2/index.html), [style.css](flex/07-flex-layout-2/styles.css)
