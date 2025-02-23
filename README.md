@@ -1,13 +1,8 @@
-# Fundamental CSS Assignments - The Odin Project
+# CSS Foundation - The Odin Project
 
 ## Overview
 
 This repository contains completed fundamental CSS assignments from [The Odin Project](https://www.theodinproject.com). These assignments focus on essential CSS concepts, including selectors, combinators, and the CSS cascade. Each exercise is designed to build a strong foundation in CSS through practical implementation.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Assignments](#assignments)
 
 ## Introduction
 
